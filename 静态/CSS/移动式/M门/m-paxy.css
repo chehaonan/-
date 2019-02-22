@@ -178,9 +178,9 @@ h6 {
 }
 
 div.paEating{
-    width: 94%;
+    width: 86%;
     margin: 0 auto;
-    margin-top: 40px;
+    padding-top: 40px;
 }
 
 .o__main .fullBox .fullColumnName a, .o__main .leftBox .leftColumnName a {
@@ -190,7 +190,7 @@ div.paEating{
 }
 
 .o__main .leftBox .leftColumnContent .leftCardBox:first-child {
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 
 .o__main .leftBox .leftColumnContent .leftCardBox .leftCardItem:first-child {
@@ -200,4 +200,3 @@ div.paEating{
 .o__main .fullBox .fullColumnName, .o__main .leftBox .leftColumnName {
     border-bottom: none;
 }
-
